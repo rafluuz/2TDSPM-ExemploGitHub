@@ -1,2 +1,2 @@
 # 2TDSPM-ExemploGitHub
-# Exercício de utilização do GitHub diretamente
+# Exercício de utilização do GitHub, DESKTOP, BAHS
